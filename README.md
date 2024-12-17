@@ -1,6 +1,6 @@
 # Telecom-Churn-Analysis
 
-Background and OverView	
+Background and Overview	
 Data Structure Overview
 Executive Summary
 Insight DeepDive

@@ -1,6 +1,5 @@
 # Telecom-Churn-Analysis
-
-## Background and Overview	
+The dataset is of a telecommunication company based in india
 ## Data Structure Overview
 ## Executive Summary
 ## Insight DeepDive

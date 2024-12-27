@@ -3,44 +3,44 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ## Data Structure Overview
 
+# Entity-Relationship Model Tables
+
 ## 1. Product
-| Field          | Description                                                                                      |
-|-----------------|--------------------------------------------------------------------------------------------------|
-| **Product ID**  | Unique identifier for each product.                                                             |
-| **Name**        | Name of the product.                                                                            |
-| **Description** | Description of the product.                                                                     |
-| **Price**       | Price of the product.                                                                           |
-| **Currency**    | Currency of the product price.                                                                  |
-| **Brand**       | Brand of the product.                                                                           |
-| **SKU**         | Stock Keeping Unit, a unique code used to identify items available for sale.                    |
-| **URL**         | Product URL (e.g., if the product is sold online).                                              |
+| Field          | Description                                                                                      | Data Type |
+|-----------------|--------------------------------------------------------------------------------------------------|-----------|
+| **Product ID**  | Unique identifier for each product.                                                             | INT       |
+| **Name**        | Name of the product.                                                                            | STR       |
+| **Description** | Description of the product.                                                                     | STR       |
+| **Price**       | Price of the product.                                                                           | FLOAT     |
+| **Currency**    | Currency of the product price.                                                                  | STR       |
+| **Brand**       | Brand of the product.                                                                           | STR       |
+| **SKU**         | Stock Keeping Unit, a unique code used to identify items available for sale.                    | STR       |
+| **URL**         | Product URL (e.g., if the product is sold online).                                              | STR       |
 
 ---
 
 ## 2. Category
-| Field              | Description                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------------------|
-| **Product Category**| The category of the product, such as clothing, accessories, shoes, etc.                         |
-| **Section**         | Section or category where the product is sold in the store (e.g., women's clothing, men's clothing, etc.). |
+| Field              | Description                                                                                      | Data Type |
+|---------------------|--------------------------------------------------------------------------------------------------|-----------|
+| **Product Category**| The category of the product, such as clothing, accessories, shoes, etc.                         | STR       |
+| **Section**         | Section or category where the product is sold in the store (e.g., women's clothing, men's clothing, etc.). | STR |
 
 ---
 
 ## 3. Promotion
-| Field         | Description                                                                                      |
-|---------------|--------------------------------------------------------------------------------------------------|
-| **Promotion** | Indicator of whether the product is currently on promotion or not.                              |
-| **Seasonal**  | Indicator of whether the product is part of a specific seasonal collection.                     |
+| Field         | Description                                                                                      | Data Type |
+|---------------|--------------------------------------------------------------------------------------------------|-----------|
+| **Promotion** | Indicator of whether the product is currently on promotion or not.                              | BOOL      |
+| **Seasonal**  | Indicator of whether the product is part of a specific seasonal collection.                     | BOOL      |
 
 ---
 
 ## 4. Sales
-| Field              | Description                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------------------|
-| **Sales Volume**    | The quantity of products sold.                                                                  |
-| **Product Position**| The position of the product in the catalog or store layout.                                     |
-| **Scraped_at**      | The time when the data was scraped (e.g., in web scraping process).                             |
-
-
+| Field              | Description                                                                                      | Data Type |
+|---------------------|--------------------------------------------------------------------------------------------------|-----------|
+| **Sales Volume**    | The quantity of products sold.                                                                  | INT       |
+| **Product Position**| The position of the product in the catalog or store layout.                                     | STR       |
+| **Scraped_at**      | The time when the data was scraped (e.g., in web scraping process).                             | DATETIME  |
 
 
 ## Executive Summary

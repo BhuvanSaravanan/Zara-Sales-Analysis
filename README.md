@@ -40,8 +40,6 @@ This Zara sales dataset contains information about product sales from Zara store
 | **Product Position**| The position of the product in the catalog or store layout.                                     |
 | **Scraped_at**      | The time when the data was scraped (e.g., in web scraping process).                             |
 
---
-
 
 
 

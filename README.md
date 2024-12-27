@@ -3,8 +3,6 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ## Data Structure Overview
 
-Entity-Relationship Model Tables
-
 ## 1. Product
 | Field          | Description                                                                                      |
 |-----------------|--------------------------------------------------------------------------------------------------|

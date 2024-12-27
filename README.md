@@ -40,13 +40,7 @@ This Zara sales dataset contains information about product sales from Zara store
 | **Product Position**| The position of the product in the catalog or store layout.                                     |
 | **Scraped_at**      | The time when the data was scraped (e.g., in web scraping process).                             |
 
----
-
-### Instructions
-1. Copy this Markdown code into your GitHub README file to represent the structured entities in table form.
-2. Commit and push the file to your GitHub repository.
-
-Let me know if you need further refinements!
+--
 
 
 

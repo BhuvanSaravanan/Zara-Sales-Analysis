@@ -5,6 +5,9 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ## Entity-Relationship Model Tables
 
+![image](https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58)
+
+
 ## 1. Product
 | Field          | Description                                                                                      | Data Type |
 |-----------------|--------------------------------------------------------------------------------------------------|-----------|

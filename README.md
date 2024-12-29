@@ -57,4 +57,7 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ## Executive Summary
 ## Insight DeepDive
+
+1. Men are more inclined towards premium products even during promotions, paying an average of $99.68 compared to women’s $48.37.
+2. Women exhibit strategic purchasing behavior, spending less on promotional products ($48.37) but more on non-promotional products ($52.68) than the average of $50.53
 ## Recommendation 

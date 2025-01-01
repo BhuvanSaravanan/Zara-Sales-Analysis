@@ -70,4 +70,9 @@ https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB
 2. Women exhibit strategic purchasing behavior, spending less on promotional products ($48.37) but more on non-promotional products ($52.68) than the average of $50.53
 3. Promoted products underperform in sales within aisles (-13.14%) and front-of-store (-17.96%) placements compared to non-promoted products.
 4. However, end-cap promotions drive success, delivering a +5.3% sales uplift versus non-promoted products.
+5. Jackets dominate sales volumes with 259,468 units, while jeans lag significantly at 13,320 units.
+6. Despite their lower sales, jeans command a higher average price ($63.92) compared to sweaters ($54.86), which have the lowest average price among categories.
+7. Shoes and T-shirts occupy mid-tier sales performance, with median sales of 57,906 and 53,637, priced at $64.87 and $67.43, respectively.
+
+
 ## Recommendation 

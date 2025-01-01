@@ -58,6 +58,9 @@ This Zara sales dataset contains information about product sales from Zara store
 
 
 ## Executive Summary
+
+https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Insight DeepDive
 
 1. Men are more inclined towards premium products even during promotions, paying an average of $99.68 compared to women’s $48.37.

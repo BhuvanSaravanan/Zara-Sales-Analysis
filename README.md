@@ -59,6 +59,9 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ## Executive Summary
 
+![image](https://github.com/user-attachments/assets/4b215c60-b5d5-43e9-bed3-2be1c4994179)
+
+
 https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Insight DeepDive

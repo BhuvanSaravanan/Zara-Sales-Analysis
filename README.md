@@ -7,13 +7,8 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ### Entity-Relationship Diagram
 
-![image](https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58)
-![image](https://github.com/user-attachments/assets/bd7af280-1d6c-46a3-855e-5305a8561c25)
-
-
-<img src="https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58.png" width="100" height="100">
-
-
+<img src="https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58" width="800" height="500">
+<img src="https://github.com/user-attachments/assets/bd7af280-1d6c-46a3-855e-5305a8561c25" width="800" height="500">
 
 ### Entity-Relationship Model Tables
 

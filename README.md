@@ -73,6 +73,11 @@ https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB
 5. Jackets dominate sales volumes with 259,468 units, while jeans lag significantly at 13,320 units.
 6. Despite their lower sales, jeans command a higher average price ($63.92) compared to sweaters ($54.86), which have the lowest average price among categories.
 7. Shoes and T-shirts occupy mid-tier sales performance, with median sales of 57,906 and 53,637, priced at $64.87 and $67.43, respectively.
+8. Sweaters experience a significant seasonal sales boost, more than doubling with 54,972 units during the season versus 20,270 units in non-seasonal periods.
+9. Shoes, jeans, and T-shirts show counter-seasonal sales trends, performing better off-season:
+    Shoes: Seasonal sales drop to 18,103, almost half of non-seasonal sales (39,803).
+    Jeans: Minimal seasonal demand, with 3,648 units seasonal vs. 9,672 non-seasonal.
+    T-shirts: Seasonal sales of 21,137 are significantly lower than non-seasonal sales (32,500).
 
 
 ## Recommendation 

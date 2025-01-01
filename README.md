@@ -5,14 +5,14 @@ This Zara sales dataset contains information about product sales from Zara store
 
 # Data Structure Overview
 
-### Entity-Relationship Diagram
+## Entity-Relationship Diagram
 
 <img src="https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58" width="800" height="500">
 <img src="https://github.com/user-attachments/assets/bd7af280-1d6c-46a3-855e-5305a8561c25" width="800" height="500">
 
-### Entity-Relationship Model Tables
+## Entity-Relationship Model Tables
 
-## 1. Product
+### 1. Product
 | Field          | Description                                                                                      | Data Type |
 |-----------------|--------------------------------------------------------------------------------------------------|-----------|
 | **ProductID**   | Unique identifier for each product.                                                             | INT       |
@@ -28,7 +28,7 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ---
 
-## 2. Category
+### 2. Category
 | Field              | Description                                                                                      | Data Type |
 |---------------------|--------------------------------------------------------------------------------------------------|-----------|
 | **CategoryID**      | Unique identifier for each category.                                                            | INT       |
@@ -37,7 +37,7 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ---
 
-## 3. Promotion
+### 3. Promotion
 | Field         | Description                                                                                      | Data Type |
 |---------------|--------------------------------------------------------------------------------------------------|-----------|
 | **PromotionID** | Unique identifier for each promotion.                                                         | INT       |
@@ -46,7 +46,7 @@ This Zara sales dataset contains information about product sales from Zara store
 
 ---
 
-## 4. Sales
+### 4. Sales
 | Field              | Description                                                                                      | Data Type |
 |---------------------|--------------------------------------------------------------------------------------------------|-----------|
 | **SalesID**         | Unique identifier for each sales record.                                                        | INT       |
@@ -56,14 +56,14 @@ This Zara sales dataset contains information about product sales from Zara store
 | **ScrapedAt**       | The time when the data was scraped (e.g., in web scraping process).                             | DATETIME  |
 
 
-## Executive Summary
+# Executive Summary
 
 ![image](https://github.com/user-attachments/assets/4b215c60-b5d5-43e9-bed3-2be1c4994179)
 
 
 https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Insight DeepDive
+# Insight DeepDive
 
 1. Men are more inclined towards premium products even during promotions, paying an average of $99.68 compared to women’s $48.37.
 2. Women exhibit strategic purchasing behavior, spending less on promotional products ($48.37) but more on non-promotional products ($52.68) than the average of $50.53
@@ -79,7 +79,7 @@ https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB
     T-shirts: Seasonal sales of 21,137 are significantly lower than non-seasonal sales (32,500).
 
 
-## Recommendation 
+# Recommendation 
 
 1.Focus premium promotions on male customers who spend more on promoted products. Highlight value-driven deals and optimize non-promotional offerings for women.
 

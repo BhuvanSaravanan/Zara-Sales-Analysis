@@ -1,11 +1,10 @@
 
 <img src="https://github.com/user-attachments/assets/95117c56-ac89-4356-9ec4-6e293c6d159a" width="1000" height="200">
 
-# Case Study: Exploring Customer Purchase Patterns and Product Performance (ZARA)
+# Project Background: Exploring Customer Purchase Patterns and Product Performance 
+Zara is a renowned multinational retail company founded in 1974 in Spain, as part of the Inditex group, which is one of the largest fashion retailers in the world. Zara specializes in fast fashion, offering trendy clothing, accessories, and footwear for men, women, and children. The brand is known for its ability to quickly bring the latest fashion trends from the runway to its stores, often with turnaround times as short as two weeks. With a commitment to sustainability, Zara has also been integrating eco-friendly practices into its operations, including using organic fabrics and reducing waste.
 
-# Project Background
 This Zara sales dataset contains information about product sales from Zara stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date, and store location. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance. Analyzing this dataset can provide valuable insights for Zara management in optimizing marketing strategies, inventory management, and other decision-making processes to enhance revenue and profitability.
-
 # Data Structure Overview
 
 ## Entity-Relationship Diagram

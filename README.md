@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/0e0e5e50-8963-48f2-99d9-d9821996bfbb" width="1000" height="300">
+
 # Case Study: Exploring Customer Purchase Patterns and Product Performance (ZARA)
 
 # Project Background

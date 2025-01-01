@@ -81,3 +81,11 @@ https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB
 
 
 ## Recommendation 
+
+1.Focus premium promotions on male customers who spend more on promoted products. Highlight value-driven deals and optimize non-promotional offerings for women.
+
+2.Reassess promotional strategies for aisle and front-of-store placements; explore alternative approaches to boost visibility and appeal. Prioritize end-cap promotions as a high-performing tactic for driving incremental sales.
+
+3.Leverage the popularity of jackets for upselling or cross-promotional opportunities. Explore pricing strategies to align jeans’ premium pricing with improved sales performance. Optimize marketing for shoes and T-shirts to capitalize on their competitive pricing and steady demand.
+
+4.Maximize sweater promotions during peak seasons to capitalize on demand. Focus on enhancing off-season marketing and promotions for shoes, jeans, and T-shirts to sustain sales momentum year-round.

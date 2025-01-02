@@ -97,3 +97,7 @@ You can find the link to the Tablaue Public interative dashboard here: [Dashboar
 3.Leverage the popularity of jackets for upselling or cross-promotional opportunities. Explore pricing strategies to align jeans’ premium pricing with improved sales performance. Optimize marketing for shoes and T-shirts to capitalize on their competitive pricing and steady demand.
 
 4.Maximize sweater promotions during peak seasons to capitalize on demand. Focus on enhancing off-season marketing and promotions for shoes, jeans, and T-shirts to sustain sales momentum year-round.
+
+# Tools and Technologies
+
+SQL,Excel,Tablaue, PowerPoint(PPT)

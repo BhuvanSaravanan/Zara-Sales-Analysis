@@ -61,6 +61,18 @@ This Zara sales dataset contains 252 records and information about product sales
 
 # Executive Summary
 
+Premium promotions should target male customers, who consistently spend more on discounted items, while non-promotional offerings should focus on meeting the preferences of female shoppers.
+This approach will ensure promotional ROI is maximized and inventory aligns better with customer demand across demographics.
+
+End-cap promotions should be prioritized as they outperform aisle and front-of-store placements, driving higher incremental sales.
+Alternative strategies for improving visibility and appeal in other store locations should also be explored to reinvigorate underperforming placements.
+
+Jackets, as a high-demand category, offer strong upselling and cross-promotional potential, while pricing strategies for jeans should align with their premium positioning to unlock sales growth.
+Concurrently, shoes and T-shirts should leverage their competitive pricing and steady demand through targeted marketing campaigns.
+
+Seasonal promotions for sweaters should be maximized during peak periods, while off-season campaigns for shoes, jeans, and T-shirts can sustain year-round sales momentum.
+This dual approach ensures consistent revenue streams and optimizes category performance throughout the year.
+
 ![image](https://github.com/user-attachments/assets/4b215c60-b5d5-43e9-bed3-2be1c4994179)
 
 You can find the link to the Tablaue Public interative dashboard here: [Dashboard](https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

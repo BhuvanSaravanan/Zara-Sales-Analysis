@@ -72,6 +72,8 @@ Seasonal demand for sweaters peaks during specific times, while shoes, jeans, an
 
 You can find the link to the Tablaue Public interative dashboard here: [Dashboard](https://public.tableau.com/views/final_zara_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+You can find the link to the SQL Queries to conduct EDA here: [SQL](ZaraSQL1.sql)
+
 
 # Insight DeepDive
 

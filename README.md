@@ -7,12 +7,12 @@ Zara is a renowned multinational retail company founded in 1974 in Spain, as par
 This Zara sales dataset contains information about product sales from Zara stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date, and store location. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance. Analyzing this dataset can provide valuable insights for Zara management in optimizing marketing strategies, inventory management, and other decision-making processes to enhance revenue and profitability.
 # Data Structure Overview
 
-## Entity-Relationship Diagram
+### Entity-Relationship Diagram
 
 <img src="https://github.com/user-attachments/assets/6be2335e-2213-414c-b594-ef8111b6ca58" width="800" height="400">
 <img src="https://github.com/user-attachments/assets/bd7af280-1d6c-46a3-855e-5305a8561c25" width="800" height="400">
 
-## Entity-Relationship Model Tables
+### Entity-Relationship Model Tables
 
 ### 1. Product
 | Field          | Description                                                                                      | Data Type |

@@ -1,4 +1,4 @@
-# Exploring Customer Purchase Patterns and Product Performance 
+# Goal: Exploring Customer Purchase Patterns and Product Performance 
 
 <img src="https://github.com/user-attachments/assets/95117c56-ac89-4356-9ec4-6e293c6d159a" width="1000" height="200">
 

@@ -5,7 +5,7 @@
 # Project Background
 Zara is a renowned multinational retail company founded in 1974 in Spain, as part of the Inditex group, which is one of the **largest fashion retailers in the world**. Zara specializes in **fast fashion, offering trendy clothing, accessories, and footwear for men, women, and children.** 
 
-The brand is known for its ability to quickly bring the latest fashion trends from the runway to its stores, often with **turnaround times as short as two weeks**. With a commitment to sustainability, Zara has also been integrating **eco-friendly practices into its operations, including using organic fabrics and reducing waste.** Now they are looking to analyse their sales data to understand their customer purchasing patterns and various product performance against sales volumes. 
+The brand is known for its ability to quickly bring the latest fashion trends from the runway to its stores, often with **turnaround times as short as two weeks**. With a commitment to sustainability, Zara has also been integrating **eco-friendly practices into its operations, including using organic fabrics and reducing waste.** Now they are looking to analyse their sales data to understand their customer purchasing patterns and various product performance against sales volumes and other parameters. 
 
 # Data Structure Overview
 

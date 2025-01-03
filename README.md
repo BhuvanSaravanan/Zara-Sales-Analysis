@@ -64,7 +64,7 @@ This Zara sales dataset contains 252 records and information about product sales
 We sold 459,573 units, generating $38,988,477 in total revenue, with customers paying an average price of $86 per unit. Our portfolio consists of 252 product collections, including 218 men’s clothing collections and 34 women’s clothing collections. However, 123 products underperformed, with sales volumes falling below the average of 1,824 units per product. 
 
 Male customers spend significantly more on promoted products, while female customers show stronger engagement with non-promotional offerings.
-Aisle promotions outperform end-cap and front-of-store placements, delivering higher visibility and stronger incremental sales.
+End-cap promotions outperform aisle and front-of-store placements, delivering higher visibility and stronger incremental sales.
 Jackets lead in popularity, offering potential for higher engagement, while jeans’ premium pricing limits sales growth despite strong demand.
 Seasonal demand for sweaters peaks during specific times, while shoes, jeans, and T-shirts sustain steady performance year-round.
 

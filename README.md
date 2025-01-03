@@ -3,7 +3,9 @@
 <img src="https://github.com/user-attachments/assets/95117c56-ac89-4356-9ec4-6e293c6d159a" width="1000" height="200">
 
 # Project Background
-Zara is a renowned multinational retail company founded in 1974 in Spain, as part of the Inditex group, which is one of the largest fashion retailers in the world. Zara specializes in fast fashion, offering trendy clothing, accessories, and footwear for men, women, and children. The brand is known for its ability to quickly bring the latest fashion trends from the runway to its stores, often with turnaround times as short as two weeks. With a commitment to sustainability, Zara has also been integrating eco-friendly practices into its operations, including using organic fabrics and reducing waste.
+Zara is a renowned multinational retail company founded in 1974 in Spain, as part of the Inditex group, which is one of the **largest fashion retailers in the world**. Zara specializes in **fast fashion, offering trendy clothing, accessories, and footwear for men, women, and children.** 
+
+The brand is known for its ability to quickly bring the latest fashion trends from the runway to its stores, often with **turnaround times as short as two weeks**. With a commitment to sustainability, Zara has also been integrating **eco-friendly practices into its operations, including using organic fabrics and reducing waste.**
 
 # Data Structure Overview
 
